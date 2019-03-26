@@ -1,0 +1,7 @@
+[pycodestyle]
+ignore = E111, # Indentation is not a multiple of four
+         E114, # Indentation is not a multiple of four (comment)
+         E305, # Expected 2 blank lines after end of function or class
+         W292, # No newline at end of file
+         W291, # Trailing whitespace
+         W293, # Blank line contains whitespace

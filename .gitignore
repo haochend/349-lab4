@@ -1,0 +1,15 @@
+*.o
+*.elf
+*.asm
+*.img
+*~
+*.swp
+rpi/
+.*.ko.cmd
+.*.o.cmd
+.tmp_versions/
+*.o
+modules.order
+*.mod.c
+Module.symvers
+*.ko
